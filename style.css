@@ -1,0 +1,10 @@
+.jumbotron {
+  background-image : url("party.jpg");
+  color: aqua;
+  height : 150 px;
+}
+
+.boutton_jumbotron {
+  color: black;
+    border-radius: 25px;
+}
