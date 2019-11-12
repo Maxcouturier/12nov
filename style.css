@@ -8,3 +8,9 @@
   color: black;
     border-radius: 25px;
 }
+
+.card{
+  align-items: center;
+ margin-bottom: 0.75rem;
+ max-width: 100rem;
+}
